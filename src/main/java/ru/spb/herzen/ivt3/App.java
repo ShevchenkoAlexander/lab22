@@ -68,6 +68,7 @@ public class App {
         System.out.print("Ваше имя содержит: " + numb + " гласных\n");
         for (char z : chars) {
             System.out.println(z);
+
         }
     }
 }
